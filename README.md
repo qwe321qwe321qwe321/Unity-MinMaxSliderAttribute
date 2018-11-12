@@ -18,6 +18,8 @@ public class TestScript : MonoBehaviour {
 }
 ```
 Inspector
+
+
 ![InInspector](screenshot1.png)
 
 Getter
