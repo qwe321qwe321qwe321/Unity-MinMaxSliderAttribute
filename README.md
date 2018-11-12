@@ -5,6 +5,7 @@ Support int, float, Vector2, Vector3 and Vector4
 # Usage
 Code
 ``` c#
+using MinMaxSliderAttribute;
 public class TestScript : MonoBehaviour {
 	[MinMaxRange(0, 10)]
 	public MinMaxInt minmaxInt;
